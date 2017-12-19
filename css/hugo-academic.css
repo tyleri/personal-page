@@ -277,10 +277,6 @@ blockquote p:last-child {
   transform: scale(1.2)
 }
 
-.big-icon {
-  font-size: 2rem;
-}
-
 ul.ul-interests li {
   font-size: 0.9rem;
 }
